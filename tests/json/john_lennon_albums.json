@@ -1,0 +1,306 @@
+{
+  "artworks": [
+    {
+      "name": "John Lennon/Plastic Ono Band",
+      "extensions": [
+        "1970 г."
+      ],
+      "link": "https://www.google.com/search?sca_esv=37dc570b99b93daa&sxsrf=AE3TifOfQpQ1kFJol0cTJPR-RpvLwO1eVw:1755614340584&q=%D0%94%D0%B6%D0%BE%D0%BD+%D0%9B%D0%B5%D0%BD%D0%BD%D0%BE%D0%BD+John+Lennon/Plastic+Ono+Band&stick=H4sIAAAAAAAAAONgFuLSz9U3MCwrzjGOV-IAsbPj0yu1xLOTrfRzS4szk_UTi0oyi0usEnOSSnOLF7EaXZhyYduFfRf2KlyYfWHrhb1ACOJ45WfkKfik5uXl5-kH5CQWl2QmK_jn5Ss4JealAAB9r6ZLZgAAAA&sa=X&ved=2ahUKEwiz_oeJjZePAxVBPhAIHefuN9sQ9OUBegQILhAD"
+    },
+    {
+      "name": "Mind Games",
+      "extensions": [
+        "1973 г."
+      ],
+      "link": "https://www.google.com/search?sca_esv=37dc570b99b93daa&sxsrf=AE3TifOfQpQ1kFJol0cTJPR-RpvLwO1eVw:1755614340584&q=%D0%94%D0%B6%D0%BE%D0%BD+%D0%9B%D0%B5%D0%BD%D0%BD%D0%BE%D0%BD+Mind+Games&stick=H4sIAAAAAAAAAONgFuLSz9U3MCwrzjGOV4KwM3JzDQy1xLOTrfRzS4szk_UTi0oyi0usEnOSSnOLF7EqXJhyYduFfRf2KlyYfWHrhb1ACOL4ZualKLgn5qYWAwDoJvkEVgAAAA&sa=X&ved=2ahUKEwiz_oeJjZePAxVBPhAIHefuN9sQ9OUBegQILhAF"
+    },
+    {
+      "name": "Double Fantasy",
+      "extensions": [
+        "1980 г."
+      ],
+      "link": "https://www.google.com/search?sca_esv=37dc570b99b93daa&sxsrf=AE3TifOfQpQ1kFJol0cTJPR-RpvLwO1eVw:1755614340584&q=%D0%94%D0%B6%D0%BE%D0%BD+%D0%9B%D0%B5%D0%BD%D0%BD%D0%BE%D0%BD+Double+Fantasy&stick=H4sIAAAAAAAAAONgFuLSz9U3MCwrzjGOV4Kws3MMkgu0xLOTrfRzS4szk_UTi0oyi0usEnOSSnOLF7GqXJhyYduFfRf2KlyYfWHrhb1ACOK45Jcm5aQquCXmlSQWVwIAEI6QqFoAAAA&sa=X&ved=2ahUKEwiz_oeJjZePAxVBPhAIHefuN9sQ9OUBegQILhAH"
+    },
+    {
+      "name": "Imagine",
+      "extensions": [
+        "1971 г."
+      ],
+      "link": "https://www.google.com/search?sca_esv=37dc570b99b93daa&sxsrf=AE3TifOfQpQ1kFJol0cTJPR-RpvLwO1eVw:1755614340584&q=%D0%94%D0%B6%D0%BE%D0%BD+%D0%9B%D0%B5%D0%BD%D0%BD%D0%BE%D0%BD+Imagine&stick=H4sIAAAAAAAAAONgFuLSz9U3MCwrzjGOV4KwM3Jz86q0xLOTrfRzS4szk_UTi0oyi0usEnOSSnOLF7HKXphyYduFfRf2KlyYfWHrhb1ACOJ45iamZ-alAgBjLMdkUwAAAA&sa=X&ved=2ahUKEwiz_oeJjZePAxVBPhAIHefuN9sQ9OUBegQILhAJ"
+    },
+    {
+      "name": "Abbey Road",
+      "extensions": [
+        "1969 г."
+      ],
+      "link": "https://www.google.com/search?sca_esv=37dc570b99b93daa&sxsrf=AE3TifOfQpQ1kFJol0cTJPR-RpvLwO1eVw:1755614340584&q=The+Beatles+Abbey+Road&stick=H4sIAAAAAAAAAONgFuLSz9U3MCwrzjGOV-IEsY0Lcy2ytcSzk630c0uLM5P1E4tKMotLrBJzkkpzixexioVkpCo4pSaW5KQWKzgmJaVWKgTlJ6YAANQAZxRLAAAA&sa=X&ved=2ahUKEwiz_oeJjZePAxVBPhAIHefuN9sQ9OUBegQILhAL"
+    },
+    {
+      "name": "Live in New York City",
+      "extensions": [
+        "1986 г."
+      ],
+      "link": "https://www.google.com/search?sca_esv=37dc570b99b93daa&sxsrf=AE3TifOfQpQ1kFJol0cTJPR-RpvLwO1eVw:1755614340584&q=%D0%94%D0%B6%D0%BE%D0%BD+%D0%9B%D0%B5%D0%BD%D0%BD%D0%BE%D0%BD+Live+in+New+York+City&stick=H4sIAAAAAAAAAONgFuLSz9U3MCwrzjGOV4KwM3JzMyq1xLOTrfRzS4szk_UTi0oyi0usEnOSSnOLF7FqX5hyYduFfRf2KlyYfWHrhb1ACOL4ZJalKmTmKfillitE5hdlKzhnllQCAPhTJ09hAAAA&sa=X&ved=2ahUKEwiz_oeJjZePAxVBPhAIHefuN9sQ9OUBegQILhAN"
+    },
+    {
+      "name": "Unfinished Music No.1: Two Virgins",
+      "extensions": [
+        "1968 г."
+      ],
+      "link": "https://www.google.com/search?sca_esv=37dc570b99b93daa&sxsrf=AE3TifOfQpQ1kFJol0cTJPR-RpvLwO1eVw:1755614340584&q=%D0%94%D0%B6%D0%BE%D0%BD+%D0%9B%D0%B5%D0%BD%D0%BD%D0%BE%D0%BD+Unfinished+Music+No.1:+Two+Virgins&stick=H4sIAAAAAAAAAONgFuLSz9U3MCwrzjGOV-IEsY2zy4zztMSzk630c0uLM5P1E4tKMotLrBJzkkpzixexWlyYcmHbhX0X9ipcmH1h64W9QAjihOalZeZlFmekpij4grQp-OXrGVophJTnK4RlFqVn5hUDANTEdjRtAAAA&sa=X&ved=2ahUKEwiz_oeJjZePAxVBPhAIHefuN9sQ9OUBegQILhAP"
+    },
+    {
+      "name": "Rock ’n’ Roll",
+      "extensions": [
+        "1975 г."
+      ],
+      "link": "https://www.google.com/search?sca_esv=37dc570b99b93daa&sxsrf=AE3TifOfQpQ1kFJol0cTJPR-RpvLwO1eVw:1755614340584&q=%D0%94%D0%B6%D0%BE%D0%BD+%D0%9B%D0%B5%D0%BD%D0%BD%D0%BE%D0%BD+Rock+%E2%80%99n%E2%80%99+Roll&stick=H4sIAAAAAAAAAONgFuLSz9U3MCwrzjGOV4KwM3JzKvK0xLOTrfRzS4szk_UTi0oyi0usEnOSSnOLF7GqX5hyYduFfRf2KlyYfWHrhb1ACOIE5SdnKzxqmJkHxEBOTg4AuD3CzF0AAAA&sa=X&ved=2ahUKEwiz_oeJjZePAxVBPhAIHefuN9sQ9OUBegQILhAR"
+    },
+    {
+      "name": "Some Time in New York City",
+      "extensions": [
+        "1972 г."
+      ],
+      "link": "https://www.google.com/search?sca_esv=37dc570b99b93daa&sxsrf=AE3TifOfQpQ1kFJol0cTJPR-RpvLwO1eVw:1755614340584&q=%D0%94%D0%B6%D0%BE%D0%BD+%D0%9B%D0%B5%D0%BD%D0%BD%D0%BE%D0%BD+Some+Time+in+New+York+City&stick=H4sIAAAAAAAAAONgFuLSz9U3MCwrzjGOV4Kws3MMsvK0xLOTrfRzS4szk_UTi0oyi0usEnOSSnOLF7EaXJhyYduFfRf2KlyYfWHrhb1ACOIE5-emKoRkAonMPAW_1HKFyPyibAXnzJJKAE1fpANmAAAA&sa=X&ved=2ahUKEwiz_oeJjZePAxVBPhAIHefuN9sQ9OUBegQILhAT"
+    },
+    {
+      "name": "Walls and Bridges",
+      "extensions": [
+        "1974 г."
+      ],
+      "link": "https://www.google.com/search?sca_esv=37dc570b99b93daa&sxsrf=AE3TifOfQpQ1kFJol0cTJPR-RpvLwO1eVw:1755614340584&q=%D0%94%D0%B6%D0%BE%D0%BD+%D0%9B%D0%B5%D0%BD%D0%BD%D0%BE%D0%BD+Walls+and+Bridges&stick=H4sIAAAAAAAAAONgFuLSz9U3MCwrzjGOV4KwM3Jzc4y1xLOTrfRzS4szk_UTi0oyi0usEnOSSnOLF7GqX5hyYduFfRf2KlyYfWHrhb1ACOKEJ-bkFCsk5qUoOBVlpqSnFgMAWoatmF0AAAA&sa=X&ved=2ahUKEwiz_oeJjZePAxVBPhAIHefuN9sQ9OUBegQILhAV"
+    },
+    {
+      "name": "The Beatles",
+      "extensions": [
+        "1968 г."
+      ],
+      "link": "https://www.google.com/search?sca_esv=37dc570b99b93daa&sxsrf=AE3TifOfQpQ1kFJol0cTJPR-RpvLwO1eVw:1755614340584&q=The+Beatles+The+Beatles&stick=H4sIAAAAAAAAAONgFuLSz9U3MCwrzjGOV4KwM9JNkjK0xLOTrfRzS4szk_UTi0oyi0usEnOSSnOLF7GKh2SkKjilJpbkpBYrILEBmxRly00AAAA&sa=X&ved=2ahUKEwiz_oeJjZePAxVBPhAIHefuN9sQ9OUBegQILhAX"
+    },
+    {
+      "name": "Wedding Album",
+      "extensions": [
+        "1969 г."
+      ],
+      "link": "https://www.google.com/search?sca_esv=37dc570b99b93daa&sxsrf=AE3TifOfQpQ1kFJol0cTJPR-RpvLwO1eVw:1755614340584&q=%D0%94%D0%B6%D0%BE%D0%BD+%D0%9B%D0%B5%D0%BD%D0%BD%D0%BE%D0%BD+Wedding+Album&stick=H4sIAAAAAAAAAONgFuLSz9U3MCwrzjGOV-IEsY2zS4ortMSzk630c0uLM5P1E4tKMotLrBJzkkpzixexKl-YcmHbhX0X9ipcmH1h64W9QAjihKempGTmpSs4gpQBANb0GuJYAAAA&sa=X&ved=2ahUKEwiz_oeJjZePAxVBPhAIHefuN9sQ9OUBegQILhAZ"
+    },
+    {
+      "name": "Milk and Honey",
+      "extensions": [
+        "1984 г."
+      ],
+      "link": "https://www.google.com/search?sca_esv=37dc570b99b93daa&sxsrf=AE3TifOfQpQ1kFJol0cTJPR-RpvLwO1eVw:1755614340584&q=%D0%94%D0%B6%D0%BE%D0%BD+%D0%9B%D0%B5%D0%BD%D0%BD%D0%BE%D0%BD+Milk+and+Honey&stick=H4sIAAAAAAAAAONgFuLSz9U3MCwrzjGOV4Kws3MM0lO0xLOTrfRzS4szk_UTi0oyi0usEnOSSnOLF7GqXJhyYduFfRf2KlyYfWHrhb1ACOL4ZuZkKyTmpSh45OelVgIAf9isGloAAAA&sa=X&ved=2ahUKEwiz_oeJjZePAxVBPhAIHefuN9sQ9OUBegQILhAb"
+    },
+    {
+      "name": "Revolver",
+      "extensions": [
+        "1966 г."
+      ],
+      "link": "https://www.google.com/search?sca_esv=37dc570b99b93daa&sxsrf=AE3TifOfQpQ1kFJol0cTJPR-RpvLwO1eVw:1755614340584&q=The+Beatles+Revolver&stick=H4sIAAAAAAAAAONgFuLSz9U3MCwrzjGOV4KwM9JNTJK1xLOTrfRzS4szk_UTi0oyi0usEnOSSnOLF7GKhGSkKjilJpbkpBYrBKWW5eeUpRYBACdEiTJKAAAA&sa=X&ved=2ahUKEwiz_oeJjZePAxVBPhAIHefuN9sQ9OUBegQILhAd"
+    },
+    {
+      "name": "Rubber Soul",
+      "extensions": [
+        "1965 г."
+      ],
+      "link": "https://www.google.com/search?sca_esv=37dc570b99b93daa&sxsrf=AE3TifOfQpQ1kFJol0cTJPR-RpvLwO1eVw:1755614340584&q=The+Beatles+Rubber+Soul&stick=H4sIAAAAAAAAAONgFuLSz9U3MCwrzjGOV4KwM9KNDI20xLOTrfRzS4szk_UTi0oyi0usEnOSSnOLF7GKh2SkKjilJpbkpBYrBJUmJaUWKQTnl-YAAKr9s7VNAAAA&sa=X&ved=2ahUKEwiz_oeJjZePAxVBPhAIHefuN9sQ9OUBegQILhAf"
+    },
+    {
+      "name": "Please Please Me",
+      "extensions": [
+        "1963 г."
+      ],
+      "link": "https://www.google.com/search?sca_esv=37dc570b99b93daa&sxsrf=AE3TifOfQpQ1kFJol0cTJPR-RpvLwO1eVw:1755614340584&q=The+Beatles+Please+Please+Me&stick=H4sIAAAAAAAAAONgFuLSz9U3MCwrzjGOVwKzjdOqLHMKtMSzk630c0uLM5P1E4tKMotLrBJzkkpzixexyoRkpCo4pSaW5KQWKwTkpCYWp8Io31QABS0IxFIAAAA&sa=X&ved=2ahUKEwiz_oeJjZePAxVBPhAIHefuN9sQ9OUBegQILhAh"
+    },
+    {
+      "name": "Magical Mystery Tour",
+      "extensions": [
+        "1967 г."
+      ],
+      "link": "https://www.google.com/search?sca_esv=37dc570b99b93daa&sxsrf=AE3TifOfQpQ1kFJol0cTJPR-RpvLwO1eVw:1755614340584&q=The+Beatles+Magical+Mystery+Tour&stick=H4sIAAAAAAAAAONgFuLSz9U3MCwrzjGOV-LWT9c3NDJKyanIKtESz0620s8tLc5M1k8sKsksLrFKzEkqzS1exKoQkpGq4JSaWJKTWqzgm5iemZyYo-BbWVySWlSpEJJfWgQAzCXVplcAAAA&sa=X&ved=2ahUKEwiz_oeJjZePAxVBPhAIHefuN9sQ9OUBegQILhAj"
+    },
+    {
+      "name": "With The Beatles",
+      "extensions": [
+        "1963 г."
+      ],
+      "link": "https://www.google.com/search?sca_esv=37dc570b99b93daa&sxsrf=AE3TifOfQpQ1kFJol0cTJPR-RpvLwO1eVw:1755614340584&q=The+Beatles+With+The+Beatles&stick=H4sIAAAAAAAAAONgFuLSz9U3MCwrzjGOV4KwM9LNjAu0xLOTrfRzS4szk_UTi0oyi0usEnOSSnOLF7HKhGSkKjilJpbkpBYrhGeWZCggCQAAflkgOFIAAAA&sa=X&ved=2ahUKEwiz_oeJjZePAxVBPhAIHefuN9sQ9OUBegQILhAl"
+    },
+    {
+      "name": "Beatles for Sale",
+      "extensions": [
+        "1964 г."
+      ],
+      "link": "https://www.google.com/search?sca_esv=37dc570b99b93daa&sxsrf=AE3TifOfQpQ1kFJol0cTJPR-RpvLwO1eVw:1755614340584&q=The+Beatles+Beatles+for+Sale&stick=H4sIAAAAAAAAAONgFuLSz9U3MCwrzjGOV4KwM9LNjYq0xLOTrfRzS4szk_UTi0oyi0usEnOSSnOLF7HKhGSkKjilJpbkpBbD6bT8IoXgxJxUAEJ47IJSAAAA&sa=X&ved=2ahUKEwiz_oeJjZePAxVBPhAIHefuN9sQ9OUBegQILhAn"
+    },
+    {
+      "name": "Meet the Beatles!",
+      "extensions": [
+        "1964 г."
+      ],
+      "link": "https://www.google.com/search?sca_esv=37dc570b99b93daa&sxsrf=AE3TifOfQpQ1kFJol0cTJPR-RpvLwO1eVw:1755614340584&q=The+Beatles+Meet+the+Beatles!&stick=H4sIAAAAAAAAAONgFuLSz9U3MCwrzjGOV-IEsU0s8sxTtMSzk630c0uLM5P1E4tKMotLrBJzkkpzixexyoZkpCo4pSaW5KQWK_imppYolCAEFAEsmDwoUgAAAA&sa=X&ved=2ahUKEwiz_oeJjZePAxVBPhAIHefuN9sQ9OUBegQILhAp"
+    },
+    {
+      "name": "Imagine: John Lennon",
+      "extensions": [
+        "1988 г."
+      ],
+      "link": "https://www.google.com/search?sca_esv=37dc570b99b93daa&sxsrf=AE3TifOfQpQ1kFJol0cTJPR-RpvLwO1eVw:1755614340584&q=%D0%94%D0%B6%D0%BE%D0%BD+%D0%9B%D0%B5%D0%BD%D0%BD%D0%BE%D0%BD+Imagine:+John+Lennon&stick=H4sIAAAAAAAAAONgFuLSz9U3MCwrzjGOV4KwM3Jzcy20xLOTrfRzS4szk_UTi0oyi0usEnOSSnOLF7FqXZhyYduFfRf2KlyYfWHrhb1ACOJ45iamZ-alWil45WfkKfik5uXl5wEAJjkHNWAAAAA&sa=X&ved=2ahUKEwiz_oeJjZePAxVBPhAIHefuN9sQ9OUBegQILhAr"
+    },
+    {
+      "name": "Unfinished Music No.2: Life with the Lions",
+      "extensions": [
+        "1969 г."
+      ],
+      "link": "https://www.google.com/search?sca_esv=37dc570b99b93daa&sxsrf=AE3TifOfQpQ1kFJol0cTJPR-RpvLwO1eVw:1755614340584&q=%D0%94%D0%B6%D0%BE%D0%BD+%D0%9B%D0%B5%D0%BD%D0%BD%D0%BE%D0%BD+Unfinished+Music+No.2:+Life+with+the+Lions&stick=H4sIAAAAAAAAAONgFuLSz9U3MCwrzjGOV-IEsY2zSyqMtcSzk630c0uLM5P1E4tKMotLrBJzkkpzixexOlyYcmHbhX0X9ipcmH1h64W9QAjihOalZeZlFmekpij4grQp-OXrGVkp-GSmpSqUZ5ZkKJRkpAJ5-XnFAEx1C3x1AAAA&sa=X&ved=2ahUKEwiz_oeJjZePAxVBPhAIHefuN9sQ9OUBegQILhAt"
+    },
+    {
+      "name": "Roots: John Lennon Sings the Great Rock & Roll Hits",
+      "extensions": [
+        "1975 г."
+      ],
+      "link": "https://www.google.com/search?sca_esv=37dc570b99b93daa&sxsrf=AE3TifOfQpQ1kFJol0cTJPR-RpvLwO1eVw:1755614340584&q=%D0%B4%D0%B6%D0%BE%D0%BD+%D0%BB%D0%B5%D0%BD%D0%BD%D0%BE%D0%BD+roots:+john+lennon+sings+the+great+rock+%26+roll+hits&stick=H4sIAAAAAAAAAONgFuLSz9U3MCwrzjGOVwKzTQsszPPStcSzk630c0uLM5P1E4tKMotLrBJzkkpzixexel7YcmHbhX0X9ipc2H1h64W9QAjiFOXnlxRbKWTlZ-Qp5KTm5eXnKRRn5qUXK5RkpCqkF6UmlgCVJGcrqAGpnByFjMySYgCrlPQmfwAAAA&sa=X&ved=2ahUKEwiz_oeJjZePAxVBPhAIHefuN9sQ9OUBegQILhAv"
+    },
+    {
+      "name": "The U.S. vs. John Lennon",
+      "extensions": [
+        "2006 г."
+      ],
+      "link": "https://www.google.com/search?sca_esv=37dc570b99b93daa&sxsrf=AE3TifOfQpQ1kFJol0cTJPR-RpvLwO1eVw:1755614340584&q=%D0%94%D0%B6%D0%BE%D0%BD+%D0%9B%D0%B5%D0%BD%D0%BD%D0%BE%D0%BD+The+U.S.+vs.+John+Lennon&stick=H4sIAAAAAAAAAONgFuLSz9U3MCwrzjGOV-IEsdPKjUyMtcSzk630c0uLM5P1E4tKMotLrBJzkkpzixex6l2YcmHbhX0X9ipcmH1h64W9QAjihGSkKoTqBesplBXrKXjlZ-Qp-KTm5eXnAQCCNHbvYwAAAA&sa=X&ved=2ahUKEwiz_oeJjZePAxVBPhAIHefuN9sQ9OUBegQILhAx"
+    },
+    {
+      "name": "Instant Karma",
+      "extensions": [
+        "2002 г."
+      ],
+      "link": "https://www.google.com/search?sca_esv=37dc570b99b93daa&sxsrf=AE3TifOfQpQ1kFJol0cTJPR-RpvLwO1eVw:1755614340584&q=%D0%B4%D0%B6%D0%BE%D0%BD+%D0%BB%D0%B5%D0%BD%D0%BD%D0%BE%D0%BD+instant+karma&stick=H4sIAAAAAAAAAONgFuLSz9U3MCwrzjGOV4KwM3JzTU20xLOTrfRzS4szk_UTi0oyi0usEnOSSnOLF7EqX9hyYduFfRf2KlzYfWHrhb1ACOJk5hWXJOaVKGQnFuUmAgAMyN_kWQAAAA&sa=X&ved=2ahUKEwiz_oeJjZePAxVBPhAIHefuN9sQ9OUBegQILhAz"
+    },
+    {
+      "name": "Mind Games (The Raw Studio Mixes)",
+      "extensions": [
+        "2024 г."
+      ],
+      "link": "https://www.google.com/search?sca_esv=37dc570b99b93daa&sxsrf=AE3TifOfQpQ1kFJol0cTJPR-RpvLwO1eVw:1755614340584&q=%D0%B4%D0%B6%D0%BE%D0%BD+%D0%BB%D0%B5%D0%BD%D0%BD%D0%BE%D0%BD+mind+games+(the+raw+studio+mixes)&stick=H4sIAAAAAAAAAONgFuLSz9U3MCwrzjGOV-LVT9c3NCy3KClIL8oo1BLPTrbSzy0tzkzWTywqySwusUrMSSrNLV7Ean5hy4VtF_Zd2KtwYfeFrRf2AiGIk5uZl6KQnpibWqygUZKRqlCUWK5QXFKakpkPlKpILdYEAIVmxDJwAAAA&sa=X&ved=2ahUKEwiz_oeJjZePAxVBPhAIHefuN9sQ9OUBegQILhA1"
+    },
+    {
+      "name": "Live Jam",
+      "link": "https://www.google.com/search?sca_esv=37dc570b99b93daa&sxsrf=AE3TifOfQpQ1kFJol0cTJPR-RpvLwO1eVw:1755614340584&q=%D0%B4%D0%B6%D0%BE%D0%BD+%D0%BB%D0%B5%D0%BD%D0%BD%D0%BE%D0%BD+live+jam&stick=H4sIAAAAAAAAAONgFuLSz9U3MCwrzjGOV-LVT9c3NKwwLTeMN67M0xLPTrbSzy0tzkzWTywqySwusUrMSSrNLV7EKndhy4VtF_Zd2KtwYfeFrRf2AiGIk5NZlqqQlZgLAAmKSVBXAAAA&sa=X&ved=2ahUKEwiz_oeJjZePAxVBPhAIHefuN9sQ9OUBegQILhA3"
+    },
+    {
+      "name": "Imagine (The Ultimate Mixes / Deluxe)",
+      "extensions": [
+        "1971 г."
+      ],
+      "link": "https://www.google.com/search?sca_esv=37dc570b99b93daa&sxsrf=AE3TifOfQpQ1kFJol0cTJPR-RpvLwO1eVw:1755614340584&q=%D0%B4%D0%B6%D0%BE%D0%BD+%D0%BB%D0%B5%D0%BD%D0%BD%D0%BE%D0%BD+imagine+(the+ultimate+mixes+/+deluxe)&stick=H4sIAAAAAAAAAONgFuLSz9U3MCwrzjGOV-LVT9c3NExLMa7Mzaow1RLPTrbSzy0tzkzWTywqySwusUrMSSrNLV7Ean1hy4VtF_Zd2KtwYfeFrRf2AiGIk5mbmJ6Zl6qgUZKRqlCaUwLkl6Qq5GZWpBYr6CukpOaUVqRqAgBUV2q9dAAAAA&sa=X&ved=2ahUKEwiz_oeJjZePAxVBPhAIHefuN9sQ9OUBegQILhA5"
+    },
+    {
+      "name": "Mind Games (The Out-takes)",
+      "extensions": [
+        "2024 г."
+      ],
+      "link": "https://www.google.com/search?sca_esv=37dc570b99b93daa&sxsrf=AE3TifOfQpQ1kFJol0cTJPR-RpvLwO1eVw:1755614340584&q=%D0%B4%D0%B6%D0%BE%D0%BD+%D0%BB%D0%B5%D0%BD%D0%BD%D0%BE%D0%BD+mind+games+(the+out-takes)&stick=H4sIAAAAAAAAAONgFuLSz9U3MCwrzjGOV-LVT9c3NCxPS05LTkov0RLPTrbSzy0tzkzWTywqySwusUrMSSrNLV7EanBhy4VtF_Zd2KtwYfeFrRf2AiGIk5uZl6KQnpibWqygUZKRqpBfWqJbkpidWqwJAEcYZuBpAAAA&sa=X&ved=2ahUKEwiz_oeJjZePAxVBPhAIHefuN9sQ9OUBegQILhA7"
+    },
+    {
+      "name": "Imagine (The Elements Mixes)",
+      "extensions": [
+        "1971 г."
+      ],
+      "link": "https://www.google.com/search?sca_esv=37dc570b99b93daa&sxsrf=AE3TifOfQpQ1kFJol0cTJPR-RpvLwO1eVw:1755614340584&q=%D0%B4%D0%B6%D0%BE%D0%BD+%D0%BB%D0%B5%D0%BD%D0%BD%D0%BE%D0%BD+imagine+(the+elements+mixes)&stick=H4sIAAAAAAAAAONgFuLSz9U3MCwrzjGOV-LVT9c3NCxLNkg3T6tK0RLPTrbSzy0tzkzWTywqySwusUrMSSrNLV7EanRhy4VtF_Zd2KtwYfeFrRf2AiGIk5mbmJ6Zl6qgUZKRqpCak5qbmldSrJCbWZFarAkABe4iXWsAAAA&sa=X&ved=2ahUKEwiz_oeJjZePAxVBPhAIHefuN9sQ9OUBegQILhA9"
+    },
+    {
+      "name": "Mind Games (The Elemental Mixes)",
+      "extensions": [
+        "2024 г."
+      ],
+      "link": "https://www.google.com/search?sca_esv=37dc570b99b93daa&sxsrf=AE3TifOfQpQ1kFJol0cTJPR-RpvLwO1eVw:1755614340584&q=%D0%B4%D0%B6%D0%BE%D0%BD+%D0%BB%D0%B5%D0%BD%D0%BD%D0%BE%D0%BD+mind+games+(the+elemental+mixes)&stick=H4sIAAAAAAAAAONgFuLSz9U3MCwrzjGOV-LVT9c3NKw0T8kxTzfL1RLPTrbSzy0tzkzWTywqySwusUrMSSrNLV7EanZhy4VtF_Zd2KtwYfeFrRf2AiGIk5uZl6KQnpibWqygUZKRqpCak5qbmleSmAOUqUgt1gQAehiJDW8AAAA&sa=X&ved=2ahUKEwiz_oeJjZePAxVBPhAIHefuN9sQ9OUBegQILhA_"
+    },
+    {
+      "name": "The Complete Lost Lennon Tapes - Volume 1 & 2",
+      "extensions": [
+        "1996 г."
+      ],
+      "link": "https://www.google.com/search?sca_esv=37dc570b99b93daa&sxsrf=AE3TifOfQpQ1kFJol0cTJPR-RpvLwO1eVw:1755614340584&q=%D0%B4%D0%B6%D0%BE%D0%BD+%D0%BB%D0%B5%D0%BD%D0%BD%D0%BE%D0%BD+the+complete+lost+lennon+tapes+-+volume+1+%26+2&stick=H4sIAAAAAAAAAONgFuLSz9U3MCwrzjGOVwKzk5PN8swztMSzk630c0uLM5P1E4tKMotLrBJzkkpzixexOl_YcmHbhX0X9ipc2H1h64W9QAjilGSkKiTn5xbkpJakKuTkF5co5KTm5eXnKZQkFqQWK-gqlOXnlOamKhgqqCkYAQAvfYc1eQAAAA&sa=X&ved=2ahUKEwiz_oeJjZePAxVBPhAIHefuN9sQ9OUBegQILhBB"
+    },
+    {
+      "name": "Mind Games (The Evolution Documentary)",
+      "extensions": [
+        "2024 г."
+      ],
+      "link": "https://www.google.com/search?sca_esv=37dc570b99b93daa&sxsrf=AE3TifOfQpQ1kFJol0cTJPR-RpvLwO1eVw:1755614340584&q=%D0%B4%D0%B6%D0%BE%D0%BD+%D0%BB%D0%B5%D0%BD%D0%BD%D0%BE%D0%BD+mind+games+(the+evolution+documentary)&stick=H4sIAAAAAAAAAONgFuLSz9U3MCwrzjGOV-LVT9c3NCxPyjYvya5I1xLPTrbSzy0tzkzWTywqySwusUrMSSrNLV7EanNhy4VtF_Zd2KtwYfeFrRf2AiGIk5uZl6KQnpibWqygUZKRqpBalp9TWpKZn6eQkp9cmpuaV5JYVKkJAAjACzx1AAAA&sa=X&ved=2ahUKEwiz_oeJjZePAxVBPhAIHefuN9sQ9OUBegQILhBD"
+    },
+    {
+      "name": "Imagine (The Evolution Documentary)",
+      "extensions": [
+        "1971 г."
+      ],
+      "link": "https://www.google.com/search?sca_esv=37dc570b99b93daa&sxsrf=AE3TifOfQpQ1kFJol0cTJPR-RpvLwO1eVw:1755614340584&q=%D0%B4%D0%B6%D0%BE%D0%BD+%D0%BB%D0%B5%D0%BD%D0%BD%D0%BE%D0%BD+imagine+(the+evolution+documentary)&stick=H4sIAAAAAAAAAONgFuLSz9U3MCwrzjGOV-LVT9c3NCxLNkg3Nc3L0RLPTrbSzy0tzkzWTywqySwusUrMSSrNLV7Eanlhy4VtF_Zd2KtwYfeFrRf2AiGIk5mbmJ6Zl6qgUZKRqpBalp9TWpKZn6eQkp9cmpuaV5JYVKkJAEEV-TNyAAAA&sa=X&ved=2ahUKEwiz_oeJjZePAxVBPhAIHefuN9sQ9OUBegQILhBF"
+    },
+    {
+      "name": "Mind Games - The Ultimate Mixes",
+      "link": "https://www.google.com/search?sca_esv=37dc570b99b93daa&sxsrf=AE3TifOfQpQ1kFJol0cTJPR-RpvLwO1eVw:1755614340584&q=%D0%B4%D0%B6%D0%BE%D0%BD+%D0%BB%D0%B5%D0%BD%D0%BD%D0%BE%D0%BD+mind+games+-+the+ultimate+mixes&stick=H4sIAAAAAAAAAONgFuLSz9U3MCwrzjGOV-LVT9c3NKwwyjauLExJ0hLPTrbSzy0tzkzWTywqySwusUrMSSrNLV7Eanphy4VtF_Zd2KtwYfeFrRf2AiGIk5uZl6KQnpibWqygq1CSkapQmlOSmZtYkgqUqUgtBgDnOoE1bgAAAA&sa=X&ved=2ahUKEwiz_oeJjZePAxVBPhAIHefuN9sQ9OUBegQILhBH"
+    },
+    {
+      "name": "Lennon",
+      "extensions": [
+        "1990 г."
+      ],
+      "link": "https://www.google.com/search?sca_esv=37dc570b99b93daa&sxsrf=AE3TifOfQpQ1kFJol0cTJPR-RpvLwO1eVw:1755614340584&q=%D0%94%D0%B6%D0%BE%D0%BD+%D0%9B%D0%B5%D0%BD%D0%BD%D0%BE%D0%BD+Lennon&stick=H4sIAAAAAAAAAONgFuLSz9U3MCwrzjGOV4KwM3Jzk7O0xLOTrfRzS4szk_UTi0oyi0usEnOSSnOLF7HKXJhyYduFfRf2KlyYfWHrhb1ACOL4pObl5ecBAJc9YXFSAAAA&sa=X&ved=2ahUKEwiz_oeJjZePAxVBPhAIHefuN9sQ9OUBegQILhBJ"
+    },
+    {
+      "name": "Shaved Fish",
+      "extensions": [
+        "1975 г."
+      ],
+      "link": "https://www.google.com/search?sca_esv=37dc570b99b93daa&sxsrf=AE3TifOfQpQ1kFJol0cTJPR-RpvLwO1eVw:1755614340584&q=%D0%94%D0%B6%D0%BE%D0%BD+%D0%9B%D0%B5%D0%BD%D0%BD%D0%BE%D0%BD+Shaved+Fish&stick=H4sIAAAAAAAAAONgFuLSz9U3MCwrzjGOV4KwM3JzS8y0xLOTrfRzS4szk_UTi0oyi0usEnOSSnOLF7EqXphyYduFfRf2KlyYfWHrhb1ACOIEZySWpaYouGUWZwAA0sxzZVcAAAA&sa=X&ved=2ahUKEwiz_oeJjZePAxVBPhAIHefuN9sQ9OUBegQILhBL"
+    },
+    {
+      "name": "Acoustic",
+      "extensions": [
+        "2004 г."
+      ],
+      "link": "https://www.google.com/search?sca_esv=37dc570b99b93daa&sxsrf=AE3TifOfQpQ1kFJol0cTJPR-RpvLwO1eVw:1755614340584&q=%D0%94%D0%B6%D0%BE%D0%BD+%D0%9B%D0%B5%D0%BD%D0%BD%D0%BE%D0%BD+Acoustic&stick=H4sIAAAAAAAAAONgFuLSz9U3MCwrzjGOV4KwM3JzjSq1xLOTrfRzS4szk_UTi0oyi0usEnOSSnOLF7HKXZhyYduFfRf2KlyYfWHrhb1ACOI4JueXFpdkJgMAvsnjUVQAAAA&sa=X&ved=2ahUKEwiz_oeJjZePAxVBPhAIHefuN9sQ9OUBegQILhBN"
+    },
+    {
+      "name": "Menlove Ave.",
+      "extensions": [
+        "1986 г."
+      ],
+      "link": "https://www.google.com/search?sca_esv=37dc570b99b93daa&sxsrf=AE3TifOfQpQ1kFJol0cTJPR-RpvLwO1eVw:1755614340584&q=%D0%94%D0%B6%D0%BE%D0%BD+%D0%9B%D0%B5%D0%BD%D0%BD%D0%BE%D0%BD+Menlove+Ave.&stick=H4sIAAAAAAAAAONgFuLSz9U3MCwrzjGOV4KwM3JzMwy0xLOTrfRzS4szk_UTi0oyi0usEnOSSnOLF7EqXZhyYduFfRf2KlyYfWHrhb1ACOL4publ5JelKjiWpeoBAK8GH6BYAAAA&sa=X&ved=2ahUKEwiz_oeJjZePAxVBPhAIHefuN9sQ9OUBegQILhBP"
+    },
+    {
+      "name": "John Lennon Signature Box",
+      "extensions": [
+        "2010 г."
+      ],
+      "link": "https://www.google.com/search?sca_esv=37dc570b99b93daa&sxsrf=AE3TifOfQpQ1kFJol0cTJPR-RpvLwO1eVw:1755614340584&q=%D0%94%D0%B6%D0%BE%D0%BD+%D0%9B%D0%B5%D0%BD%D0%BD%D0%BE%D0%BD+John+Lennon+Signature+Box&stick=H4sIAAAAAAAAAONgFuLSz9U3MCwrzjGOVwKzk6uSjCpytcSzk630c0uLM5P1E4tKMotLrBJzkkpzixex6l-YcmHbhX0X9ipcmH1h64W9QAjieOVn5Cn4pObl5ecpBGem5yWWlBalKjjlVwAAR9poI2UAAAA&sa=X&ved=2ahUKEwiz_oeJjZePAxVBPhAIHefuN9sQ9OUBegQILhBR"
+    },
+    {
+      "name": "Wonsaponatime",
+      "extensions": [
+        "1998 г."
+      ],
+      "link": "https://www.google.com/search?sca_esv=37dc570b99b93daa&sxsrf=AE3TifOfQpQ1kFJol0cTJPR-RpvLwO1eVw:1755614340584&q=%D0%B4%D0%B6%D0%BE%D0%BD+%D0%BB%D0%B5%D0%BD%D0%BD%D0%BE%D0%BD+wonsaponatime&stick=H4sIAAAAAAAAAONgFuLSz9U3MCwrzjGOV-LWT9c3NDKMN600LdESz0620s8tLc5M1k8sKsksLrFKzEkqzS1exKp8YcuFbRf2XdircGH3ha0X9gIhiFOen1ecWJCfl1iSmZsKACNiyRVaAAAA&sa=X&ved=2ahUKEwiz_oeJjZePAxVBPhAIHefuN9sQ9OUBegQILhBT"
+    },
+    {
+      "name": "Gimme Some Truth",
+      "extensions": [
+        "2010 г."
+      ],
+      "link": "https://www.google.com/search?sca_esv=37dc570b99b93daa&sxsrf=AE3TifOfQpQ1kFJol0cTJPR-RpvLwO1eVw:1755614340584&q=%D0%94%D0%B6%D0%BE%D0%BD+%D0%9B%D0%B5%D0%BD%D0%BD%D0%BE%D0%BD+Gimme+Some+Truth&stick=H4sIAAAAAAAAAONgFuLSz9U3MCwrzjGOVwKzU1Isc7KMtMSzk630c0uLM5P1E4tKMotLrBJzkkpzixexql2YcmHbhX0X9ipcmH1h64W9QAjiuGfm5qYqBOcDiZCi0pIMAIBKM5xcAAAA&sa=X&ved=2ahUKEwiz_oeJjZePAxVBPhAIHefuN9sQ9OUBegQILhBV"
+    },
+    {
+      "name": "Karma.",
+      "extensions": [
+        "2021 г., EP"
+      ],
+      "link": "https://www.google.com/search?sca_esv=37dc570b99b93daa&sxsrf=AE3TifOfQpQ1kFJol0cTJPR-RpvLwO1eVw:1755614340584&q=%D0%B4%D0%B6%D0%BE%D0%BD+%D0%BB%D0%B5%D0%BD%D0%BD%D0%BE%D0%BD+karma.&stick=H4sIAAAAAAAAAONgFuLSz9U3MCwrzjGOV-LVT9c3NMwzzbGsrIrP1hLPTrbSzy0tzkzWTywqySwusUrMSSrNLV7EKnNhy4VtF_Zd2KtwYfeFrRf2AiGIk51YlJuoBwB1enhUVQAAAA&sa=X&ved=2ahUKEwiz_oeJjZePAxVBPhAIHefuN9sQ9OUBegQILhBX"
+    },
+    {
+      "name": "Gimme Some Truth. The Ultimate Mixes",
+      "extensions": [
+        "2020 г."
+      ],
+      "link": "https://www.google.com/search?sca_esv=37dc570b99b93daa&sxsrf=AE3TifOfQpQ1kFJol0cTJPR-RpvLwO1eVw:1755614340584&q=%D0%94%D0%B6%D0%BE%D0%BD+%D0%9B%D0%B5%D0%BD%D0%BD%D0%BE%D0%BD+Gimme+Some+Truth.+The+Ultimate+Mixes&stick=H4sIAAAAAAAAAONgFuLSz9U3MCwrzjGOV-LVT9c3NMwpzDDLMzPJ0xLPTrbSzy0tzkzWTywqySwusUrMSSrNLV7EanVhyoVtF_Zd2KtwYfaFrRf2AiGI456Zm5uqEJwPJEKKSksy9BRCMlIVQnNKMnMTS1IVfDMrUosBVQedC3MAAAA&sa=X&ved=2ahUKEwiz_oeJjZePAxVBPhAIHefuN9sQ9OUBegQILhBZ"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "type": "module",
+  "name": "code-challenge",
+  "version": "1.0.0",
+  "description": "Goal is to extract a list of Van Gogh paintings from the attached Google search results page.",
+  "main": "parsers/Parser.js",
+  "scripts": {
+    "test": "mocha tests/test.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.1.2",
+    "lodash": "^4.17.21",
+    "mocha": "^11.7.1",
+    "protocol-buffers": "^5.0.0",
+    "yargs": "^18.0.0"
+  }
+}
